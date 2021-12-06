@@ -1,5 +1,4 @@
 # Вариант 75
-
 import json
 from tqdm import tqdm
 import argparse
